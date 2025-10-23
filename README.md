@@ -1,5 +1,5 @@
-# 💜 Siber Kitaplık Yönetimi 🚀
-
+# Kitaplık Yönetimi 🚀
+https://mor-kitaplik.vercel.app/
 Bu proje, React ve Vite kullanılarak geliştirilmiş, etkileyici mor-siyah temalı bir Kitaplık Yönetimi uygulamasıdır. Kullanıcılar, geniş bir kitap listesini görüntüleyebilir, başlık ve yazara göre arama yapabilir, kategoriye göre filtreleyebilir ve favori kitaplarını kolayca yönetebilirler.
 
 ## ✨ Özellikler
